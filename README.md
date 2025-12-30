@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Rafael Damasceno and my nickname is "Rafa"!
 
-<!--
-**rafaeldamasceno300407-byte/rafaeldamasceno300407-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :books: I am a computer engineering student at IESB.
+- :pencil2: I am currently studying JavaScript at Alura.
+- :globe_with_meridians: I currently live in Brasília - DF, Brazil.
 
-Here are some ideas to get you started:
+## tools and technologies
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+
+## Contatos:
+<div>
+<a href="https://instagram.com/rafael_damasceno_300407" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafaeldamasceno300407@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-damasceno-a60930393" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/rafaeldamasceno300407-byte/rafaeldamasceno300407-byte/blob/output/github-contribution-grid-snake.svg)
